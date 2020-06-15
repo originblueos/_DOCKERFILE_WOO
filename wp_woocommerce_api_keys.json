@@ -1,0 +1,9 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"db_wp"},
+{"type":"table","name":"wp_woocommerce_api_keys","database":"db_wp","data":
+[
+{"key_id":"1","user_id":"1","description":"Test create API","permissions":"read_write","consumer_key":"7cad2e13df07ed62c61fdbddfcd02e757713d9b9598f52a20ca201b07ce8a160","consumer_secret":"cs_833a1925d2f1baff344800e42ed686b4a29b0f68","nonces":null,"truncated_key":"f20c6d9","last_access":null}
+]
+}
+]

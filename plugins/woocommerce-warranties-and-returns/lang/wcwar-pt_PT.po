@@ -1,0 +1,1633 @@
+# Copyright (C) 2018 Warranties and Returns for WooCommerce
+# This file is distributed under the same license as the Warranties and Returns for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Warranties and Returns for WooCommerce 4.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-"
+"warranties-and-returns\n"
+"POT-Creation-Date: 2018-03-31 15:20:10+00:00\n"
+"PO-Revision-Date: 2018-02-26 15:28+0100\n"
+"Last-Translator: dzeriho@gmail.com <support@mihajlovicnenad."
+"comsupport@mihajlovicnenad.com>\n"
+"Language-Team: Portuguese\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/update/github-checker.php:120
+msgid "There is no changelog available."
+msgstr ""
+
+#: includes/update/plugin-update-checker.php:637
+msgid "Check for updates"
+msgstr ""
+
+#: includes/update/plugin-update-checker.php:681
+msgid "This plugin is up to date."
+msgstr ""
+
+#: includes/update/plugin-update-checker.php:683
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: includes/update/plugin-update-checker.php:685
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: includes/war-public.php:19
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: includes/war-public.php:24
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/war-public.php:30
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/war-public.php:30
+msgid "(Edit)"
+msgstr ""
+
+#: includes/war-settings.php:14 includes/war-settings.php:24
+#: woocommerce-warranties-and-returns.php:3091
+msgid "None"
+msgstr ""
+
+#. #-#-#-#-#  wcwar-en_UK.pot (Warranties and Returns for WooCommerce 4.0.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/war-settings.php:33
+msgid "Warranties and Returns for WooCommerce"
+msgstr ""
+
+#: includes/war-settings.php:34
+msgid "Settings page for Warranties and Returns for WooCommerce!"
+msgstr ""
+
+#: includes/war-settings.php:37
+msgid "More plugins and themes?"
+msgstr ""
+
+#: includes/war-settings.php:41
+msgid "Documentation and Plugin Guide"
+msgstr ""
+
+#: includes/war-settings.php:46
+msgid "Warranties"
+msgstr ""
+
+#: includes/war-settings.php:47
+msgid "Warranties Options"
+msgstr ""
+
+#: includes/war-settings.php:50
+msgid "Returns"
+msgstr ""
+
+#: includes/war-settings.php:51
+msgid "Returns Options"
+msgstr ""
+
+#: includes/war-settings.php:54
+msgid "E-Mail"
+msgstr ""
+
+#: includes/war-settings.php:55
+msgid "E-Mail Options"
+msgstr ""
+
+#: includes/war-settings.php:58
+msgid "Installation"
+msgstr ""
+
+#: includes/war-settings.php:59
+msgid "Installation Options"
+msgstr ""
+
+#: includes/war-settings.php:62
+msgid "Plugin License"
+msgstr ""
+
+#: includes/war-settings.php:63
+msgid "Plugin License Options"
+msgstr ""
+
+#: includes/war-settings.php:69
+msgid "Request Page"
+msgstr ""
+
+#: includes/war-settings.php:71
+msgid ""
+"Please select the page for requesting warranties. Check Documentation FAQ if "
+"the page was not created automatically."
+msgstr ""
+
+#: includes/war-settings.php:79
+msgid "Init Action"
+msgstr ""
+
+#: includes/war-settings.php:81
+msgid ""
+"Change default plugin initialization action on single product pages. Use "
+"actions done in your content-single-product.php file. Please enter action in "
+"the following format action_name:priority."
+msgstr ""
+
+#: includes/war-settings.php:88
+msgid "Plugin Scripts"
+msgstr ""
+
+#: includes/war-settings.php:90
+msgid ""
+"Check this option to enable plugin scripts in all pages. This option fixes "
+"issues in Quick Views."
+msgstr ""
+
+#: includes/war-settings.php:97
+msgid "Customer Request Display Mode"
+msgstr ""
+
+#: includes/war-settings.php:99
+msgid "Select display mode for the Single Warranty/Return Customer Post."
+msgstr ""
+
+#: includes/war-settings.php:110
+msgid "Heading Size"
+msgstr ""
+
+#: includes/war-settings.php:112
+msgid "Select heading size of warranty titles on single product pages."
+msgstr ""
+
+#: includes/war-settings.php:128
+msgid "Default Warranty"
+msgstr ""
+
+#: includes/war-settings.php:130
+msgid ""
+"Products without warranties can have a default warranty. Please select "
+"warranty preset."
+msgstr ""
+
+#: includes/war-settings.php:138 woocommerce-warranties-and-returns.php:206
+#: woocommerce-warranties-and-returns.php:207
+#: woocommerce-warranties-and-returns.php:2612
+msgid "Warranty Status"
+msgstr ""
+
+#: includes/war-settings.php:140
+msgid "Select status for the newly submitted warranty request posts."
+msgstr ""
+
+#: includes/war-settings.php:144
+msgid "Draft"
+msgstr ""
+
+#: includes/war-settings.php:145
+msgid "Published"
+msgstr ""
+
+#: includes/war-settings.php:146
+msgid "Pending"
+msgstr ""
+
+#: includes/war-settings.php:152
+msgid "Multi Requests"
+msgstr ""
+
+#: includes/war-settings.php:154
+msgid ""
+"Check this option to enable multi requests in the defined warranty period. "
+"New requests will available upon completing the previous requests."
+msgstr ""
+
+#: includes/war-settings.php:161
+msgid "Guest Requests"
+msgstr ""
+
+#: includes/war-settings.php:163
+msgid ""
+"Guests can access warranties using their Order ID and an E-Mail address to "
+"confirm their identity. Check this option if you want to allow guests to "
+"request warranties and returns."
+msgstr ""
+
+#: includes/war-settings.php:170
+msgid "Admin Warranties"
+msgstr ""
+
+#: includes/war-settings.php:172
+msgid ""
+"If checked admins will have the ability to create warranty requests for "
+"items without warranties."
+msgstr ""
+
+#: includes/war-settings.php:179
+msgid "Warranty Form"
+msgstr ""
+
+#: includes/war-settings.php:181
+msgid "Use the manager to create a warranty form."
+msgstr ""
+
+#: includes/war-settings.php:189
+msgid "Show/Hide Warranty Info"
+msgstr ""
+
+#: includes/war-settings.php:191
+msgid ""
+"Check this option to hide warranty information in WooCommerce Order E-Mails "
+"notifications."
+msgstr ""
+
+#: includes/war-settings.php:198
+msgid "From Name"
+msgstr ""
+
+#: includes/war-settings.php:200
+msgid "Enter email From Name: which should appear in quick emails."
+msgstr ""
+
+#: includes/war-settings.php:207
+msgid "Reply To"
+msgstr ""
+
+#: includes/war-settings.php:209
+msgid ""
+"Enter email address that will appear as a Reply To: address in quick emails."
+msgstr ""
+
+#: includes/war-settings.php:216
+msgid "BCC Copies"
+msgstr ""
+
+#: includes/war-settings.php:218
+msgid ""
+"Enter E-Mail addresses separated by comma to send BCC copies of quick emails."
+msgstr ""
+
+#: includes/war-settings.php:227
+msgid "Enable Returns"
+msgstr ""
+
+#: includes/war-settings.php:229
+msgid ""
+"This option will enable the in store returns. Set your return period in "
+"which the items can be sent back by customers with a refund."
+msgstr ""
+
+#: includes/war-settings.php:236
+msgid "Return Limit"
+msgstr ""
+
+#: includes/war-settings.php:238
+msgid ""
+"Number of days for returning items upon order completition. If 0 is set, "
+"items will have a lifetime return period."
+msgstr ""
+
+#: includes/war-settings.php:250
+msgid "Returns Without a Warranty"
+msgstr ""
+
+#: includes/war-settings.php:252
+msgid "If checked, returns will be available for items that have no warranty."
+msgstr ""
+
+#: includes/war-settings.php:260
+msgid "Purchase Code"
+msgstr ""
+
+#: includes/war-settings.php:262
+msgid ""
+"Enter your purchase code to get automatic updates directly in the WP "
+"Dashboard!"
+msgstr ""
+
+#: templates/comments-request.php:11
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/comments-request.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#: templates/comments-request.php:23
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: templates/comments-request.php:24
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: templates/comments-request.php:31
+msgid "Comments for this request are closed."
+msgstr ""
+
+#: templates/content-request-old.php:35 templates/content-request-old.php:104
+#: templates/content-request.php:32 templates/content-request.php:100
+msgid "Request Type"
+msgstr ""
+
+#: templates/content-request-old.php:42 templates/content-request-old.php:111
+#: templates/content-request.php:39 templates/content-request.php:107
+#: woocommerce-warranties-and-returns.php:2669
+#: woocommerce-warranties-and-returns.php:2807
+msgid "Return"
+msgstr ""
+
+#: templates/content-request-old.php:45 templates/content-request-old.php:114
+#: templates/content-request.php:42 templates/content-request.php:110
+#: woocommerce-warranties-and-returns.php:1684
+#: woocommerce-warranties-and-returns.php:2245
+#: woocommerce-warranties-and-returns.php:2672
+#: woocommerce-warranties-and-returns.php:2810
+#: woocommerce-warranties-and-returns.php:5257
+#: woocommerce-warranties-and-returns.php:5288
+msgid "Warranty"
+msgstr ""
+
+#: templates/content-request-old.php:47 templates/content-request-old.php:116
+#: templates/content-request.php:44 templates/content-request.php:112
+#: woocommerce-warranties-and-returns.php:2246
+msgid "Status"
+msgstr ""
+
+#: templates/content-request-old.php:50 templates/content-request-old.php:119
+#: templates/content-request.php:47 templates/content-request.php:115
+#: woocommerce-warranties-and-returns.php:267
+#: woocommerce-warranties-and-returns.php:2677
+#: woocommerce-warranties-and-returns.php:2814
+#: woocommerce-warranties-and-returns.php:3066
+#: woocommerce-warranties-and-returns.php:3868
+msgid "New"
+msgstr ""
+
+#: templates/content-request-old.php:53 templates/content-request-old.php:122
+#: templates/content-request.php:50 templates/content-request.php:118
+#: woocommerce-warranties-and-returns.php:268
+#: woocommerce-warranties-and-returns.php:2681
+#: woocommerce-warranties-and-returns.php:2817
+#: woocommerce-warranties-and-returns.php:3069
+#: woocommerce-warranties-and-returns.php:3872
+msgid "Processing"
+msgstr ""
+
+#: templates/content-request-old.php:56 templates/content-request-old.php:125
+#: templates/content-request.php:53 templates/content-request.php:121
+#: woocommerce-warranties-and-returns.php:269
+#: woocommerce-warranties-and-returns.php:2341
+#: woocommerce-warranties-and-returns.php:2685
+#: woocommerce-warranties-and-returns.php:2820
+#: woocommerce-warranties-and-returns.php:3072
+#: woocommerce-warranties-and-returns.php:3876
+msgid "Completed"
+msgstr ""
+
+#: templates/content-request-old.php:59 templates/content-request-old.php:128
+#: templates/content-request.php:56 templates/content-request.php:124
+#: woocommerce-warranties-and-returns.php:270
+#: woocommerce-warranties-and-returns.php:2689
+#: woocommerce-warranties-and-returns.php:2823
+#: woocommerce-warranties-and-returns.php:3075
+#: woocommerce-warranties-and-returns.php:3880
+msgid "Rejected"
+msgstr ""
+
+#: templates/content-request-old.php:61 templates/content-request-old.php:130
+#: templates/content-request.php:58 templates/content-request.php:126
+msgid "Requested on"
+msgstr ""
+
+#: templates/content-request-old.php:77 templates/content-request.php:74
+msgid "You should not be here."
+msgstr ""
+
+#: templates/content-request-old.php:152 templates/content-request.php:148
+msgid ""
+"Warranty requests for users that are not logged in are allowed. Please fill "
+"in the form bellow to view your warranty request."
+msgstr ""
+
+#: templates/content-request-old.php:154 templates/content-request.php:150
+#: woocommerce-warranties-and-returns.php:5108
+msgid "Enter your E-Mail address"
+msgstr ""
+
+#: templates/content-request-old.php:154 templates/content-request-old.php:158
+#: templates/content-request.php:150 templates/content-request.php:154
+#: woocommerce-warranties-and-returns.php:4930
+#: woocommerce-warranties-and-returns.php:5108
+#: woocommerce-warranties-and-returns.php:5112
+msgid "Required"
+msgstr ""
+
+#: templates/content-request-old.php:158 templates/content-request.php:154
+#: woocommerce-warranties-and-returns.php:5112
+msgid "Enter your order ID"
+msgstr ""
+
+#: templates/content-request-old.php:160 templates/content-request.php:156
+#: woocommerce-warranties-and-returns.php:5114
+msgid "* Please fill in all required fields to continue."
+msgstr ""
+
+#: templates/content-request-old.php:164 templates/content-request.php:160
+#: woocommerce-warranties-and-returns.php:5118
+msgid "Continue"
+msgstr ""
+
+#: templates/content-request-old.php:174 templates/content-request.php:170
+msgid "Guest warranties are not allowed!"
+msgstr ""
+
+#: templates/content-request-old.php:175 templates/content-request.php:171
+#: woocommerce-warranties-and-returns.php:5129
+msgid ""
+"Warranty requests for users that are not logged in are not allowed. Please "
+"login to continue."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:145
+#: woocommerce-warranties-and-returns.php:2442
+#: woocommerce-warranties-and-returns.php:2478
+#: woocommerce-warranties-and-returns.php:2518
+msgid "Request Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:183
+msgid "Warranty Presets"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:184
+msgid "Warranty Preset"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:185
+msgid "Search Warranty Presets"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:186
+msgid "All Warranty Presets"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:187
+msgid "Parent Warranty Preset"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:188
+msgid "Parent Warranty Preset:"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:189
+msgid "Edit Warranty Preset"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:190
+msgid "Update Warranty Preset"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:191
+msgid "Add New Warranty Preset"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:192
+msgid "New Warranty Name Preset"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:208
+msgid "Search Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:209
+msgid "All Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:210
+msgid "Parent Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:211
+msgid "Parent Warranty:"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:212
+msgid "Edit Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:213
+msgid "Update Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:214
+msgid "Add New Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:215
+msgid "New Warranty Name"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:230
+#: woocommerce-warranties-and-returns.php:235
+#: woocommerce-warranties-and-returns.php:307
+#: woocommerce-warranties-and-returns.php:5373
+msgid "Warranties and Returns"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:232
+msgid "Warranty and Returns Requests"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:233
+msgid "Warranty and Return Request"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:234
+msgid "All Requests"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:236
+msgid "No requests found"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:237
+msgid "Edit Request"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:238
+#: woocommerce-warranties-and-returns.php:239
+msgid "Create a Request"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:240
+msgid "Parent Request"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:241
+#: woocommerce-warranties-and-returns.php:2330
+#: woocommerce-warranties-and-returns.php:2334
+#: woocommerce-warranties-and-returns.php:2342
+#: woocommerce-warranties-and-returns.php:2346
+#: woocommerce-warranties-and-returns.php:2350
+#: woocommerce-warranties-and-returns.php:2677
+#: woocommerce-warranties-and-returns.php:2678
+#: woocommerce-warranties-and-returns.php:2681
+#: woocommerce-warranties-and-returns.php:2682
+#: woocommerce-warranties-and-returns.php:2685
+#: woocommerce-warranties-and-returns.php:2686
+#: woocommerce-warranties-and-returns.php:2689
+#: woocommerce-warranties-and-returns.php:2690
+#: woocommerce-warranties-and-returns.php:3868
+#: woocommerce-warranties-and-returns.php:3869
+#: woocommerce-warranties-and-returns.php:3872
+#: woocommerce-warranties-and-returns.php:3873
+#: woocommerce-warranties-and-returns.php:3876
+#: woocommerce-warranties-and-returns.php:3877
+#: woocommerce-warranties-and-returns.php:3880
+#: woocommerce-warranties-and-returns.php:3881
+msgid "View Request"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:242
+msgid "Search Requests"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:348
+#: woocommerce-warranties-and-returns.php:388
+#: woocommerce-warranties-and-returns.php:672
+#: woocommerce-warranties-and-returns.php:912
+#: woocommerce-warranties-and-returns.php:1090
+#: woocommerce-warranties-and-returns.php:1340
+#: woocommerce-warranties-and-returns.php:1515
+#: woocommerce-warranties-and-returns.php:1583
+#: woocommerce-warranties-and-returns.php:1761
+msgid "Additional warranty price"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:350
+#: woocommerce-warranties-and-returns.php:390
+#: woocommerce-warranties-and-returns.php:674
+#: woocommerce-warranties-and-returns.php:914
+#: woocommerce-warranties-and-returns.php:1092
+#: woocommerce-warranties-and-returns.php:1342
+#: woocommerce-warranties-and-returns.php:1517
+#: woocommerce-warranties-and-returns.php:1585
+#: woocommerce-warranties-and-returns.php:1763
+msgid "Enter additional price for this warranty."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:353
+#: woocommerce-warranties-and-returns.php:393
+#: woocommerce-warranties-and-returns.php:616
+#: woocommerce-warranties-and-returns.php:677
+#: woocommerce-warranties-and-returns.php:821
+#: woocommerce-warranties-and-returns.php:917
+#: woocommerce-warranties-and-returns.php:1034
+#: woocommerce-warranties-and-returns.php:1095
+#: woocommerce-warranties-and-returns.php:1345
+#: woocommerce-warranties-and-returns.php:1459
+#: woocommerce-warranties-and-returns.php:1520
+#: woocommerce-warranties-and-returns.php:1588
+#: woocommerce-warranties-and-returns.php:1705
+#: woocommerce-warranties-and-returns.php:1766
+msgid "Warranty period type"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:355
+#: woocommerce-warranties-and-returns.php:395
+#: woocommerce-warranties-and-returns.php:581
+#: woocommerce-warranties-and-returns.php:603
+#: woocommerce-warranties-and-returns.php:621
+#: woocommerce-warranties-and-returns.php:679
+#: woocommerce-warranties-and-returns.php:764
+#: woocommerce-warranties-and-returns.php:803
+#: woocommerce-warranties-and-returns.php:828
+#: woocommerce-warranties-and-returns.php:919
+#: woocommerce-warranties-and-returns.php:999
+#: woocommerce-warranties-and-returns.php:1021
+#: woocommerce-warranties-and-returns.php:1039
+#: woocommerce-warranties-and-returns.php:1097
+#: woocommerce-warranties-and-returns.php:1347
+#: woocommerce-warranties-and-returns.php:1446
+#: woocommerce-warranties-and-returns.php:1464
+#: woocommerce-warranties-and-returns.php:1522
+#: woocommerce-warranties-and-returns.php:1590
+#: woocommerce-warranties-and-returns.php:1692
+#: woocommerce-warranties-and-returns.php:1710
+#: woocommerce-warranties-and-returns.php:1768
+#: woocommerce-warranties-and-returns.php:2032
+msgid "Not selected"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:356
+#: woocommerce-warranties-and-returns.php:396
+#: woocommerce-warranties-and-returns.php:622
+#: woocommerce-warranties-and-returns.php:680
+#: woocommerce-warranties-and-returns.php:829
+#: woocommerce-warranties-and-returns.php:920
+#: woocommerce-warranties-and-returns.php:1040
+#: woocommerce-warranties-and-returns.php:1098
+#: woocommerce-warranties-and-returns.php:1348
+#: woocommerce-warranties-and-returns.php:1465
+#: woocommerce-warranties-and-returns.php:1523
+#: woocommerce-warranties-and-returns.php:1591
+#: woocommerce-warranties-and-returns.php:1711
+#: woocommerce-warranties-and-returns.php:1769
+msgid "Days"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:357
+#: woocommerce-warranties-and-returns.php:397
+#: woocommerce-warranties-and-returns.php:623
+#: woocommerce-warranties-and-returns.php:681
+#: woocommerce-warranties-and-returns.php:830
+#: woocommerce-warranties-and-returns.php:921
+#: woocommerce-warranties-and-returns.php:1041
+#: woocommerce-warranties-and-returns.php:1099
+#: woocommerce-warranties-and-returns.php:1349
+#: woocommerce-warranties-and-returns.php:1466
+#: woocommerce-warranties-and-returns.php:1524
+#: woocommerce-warranties-and-returns.php:1592
+#: woocommerce-warranties-and-returns.php:1712
+#: woocommerce-warranties-and-returns.php:1770
+msgid "Weeks"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:358
+#: woocommerce-warranties-and-returns.php:398
+#: woocommerce-warranties-and-returns.php:624
+#: woocommerce-warranties-and-returns.php:682
+#: woocommerce-warranties-and-returns.php:831
+#: woocommerce-warranties-and-returns.php:922
+#: woocommerce-warranties-and-returns.php:1042
+#: woocommerce-warranties-and-returns.php:1100
+#: woocommerce-warranties-and-returns.php:1350
+#: woocommerce-warranties-and-returns.php:1467
+#: woocommerce-warranties-and-returns.php:1525
+#: woocommerce-warranties-and-returns.php:1593
+#: woocommerce-warranties-and-returns.php:1713
+#: woocommerce-warranties-and-returns.php:1771
+msgid "Months"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:359
+#: woocommerce-warranties-and-returns.php:399
+#: woocommerce-warranties-and-returns.php:625
+#: woocommerce-warranties-and-returns.php:683
+#: woocommerce-warranties-and-returns.php:832
+#: woocommerce-warranties-and-returns.php:923
+#: woocommerce-warranties-and-returns.php:1043
+#: woocommerce-warranties-and-returns.php:1101
+#: woocommerce-warranties-and-returns.php:1351
+#: woocommerce-warranties-and-returns.php:1468
+#: woocommerce-warranties-and-returns.php:1526
+#: woocommerce-warranties-and-returns.php:1594
+#: woocommerce-warranties-and-returns.php:1714
+#: woocommerce-warranties-and-returns.php:1772
+msgid "Years"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:360
+#: woocommerce-warranties-and-returns.php:400
+#: woocommerce-warranties-and-returns.php:626
+#: woocommerce-warranties-and-returns.php:684
+#: woocommerce-warranties-and-returns.php:833
+#: woocommerce-warranties-and-returns.php:924
+#: woocommerce-warranties-and-returns.php:1044
+#: woocommerce-warranties-and-returns.php:1102
+#: woocommerce-warranties-and-returns.php:1352
+#: woocommerce-warranties-and-returns.php:1469
+#: woocommerce-warranties-and-returns.php:1527
+#: woocommerce-warranties-and-returns.php:1595
+#: woocommerce-warranties-and-returns.php:1715
+#: woocommerce-warranties-and-returns.php:1773
+#: woocommerce-warranties-and-returns.php:2889
+msgid "Lifetime"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:362
+#: woocommerce-warranties-and-returns.php:402
+#: woocommerce-warranties-and-returns.php:628
+#: woocommerce-warranties-and-returns.php:686
+#: woocommerce-warranties-and-returns.php:822
+#: woocommerce-warranties-and-returns.php:926
+#: woocommerce-warranties-and-returns.php:1046
+#: woocommerce-warranties-and-returns.php:1104
+#: woocommerce-warranties-and-returns.php:1354
+#: woocommerce-warranties-and-returns.php:1471
+#: woocommerce-warranties-and-returns.php:1529
+#: woocommerce-warranties-and-returns.php:1597
+#: woocommerce-warranties-and-returns.php:1717
+#: woocommerce-warranties-and-returns.php:1775
+msgid "Select warranty period type."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:365
+#: woocommerce-warranties-and-returns.php:405
+#: woocommerce-warranties-and-returns.php:631
+#: woocommerce-warranties-and-returns.php:689
+#: woocommerce-warranties-and-returns.php:841
+#: woocommerce-warranties-and-returns.php:929
+#: woocommerce-warranties-and-returns.php:1049
+#: woocommerce-warranties-and-returns.php:1107
+#: woocommerce-warranties-and-returns.php:1357
+#: woocommerce-warranties-and-returns.php:1474
+#: woocommerce-warranties-and-returns.php:1532
+#: woocommerce-warranties-and-returns.php:1600
+#: woocommerce-warranties-and-returns.php:1720
+#: woocommerce-warranties-and-returns.php:1778
+msgid "Warranty period"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:367
+#: woocommerce-warranties-and-returns.php:407
+#: woocommerce-warranties-and-returns.php:633
+#: woocommerce-warranties-and-returns.php:691
+#: woocommerce-warranties-and-returns.php:842
+#: woocommerce-warranties-and-returns.php:931
+#: woocommerce-warranties-and-returns.php:1051
+#: woocommerce-warranties-and-returns.php:1109
+#: woocommerce-warranties-and-returns.php:1359
+#: woocommerce-warranties-and-returns.php:1476
+#: woocommerce-warranties-and-returns.php:1534
+#: woocommerce-warranties-and-returns.php:1602
+#: woocommerce-warranties-and-returns.php:1722
+#: woocommerce-warranties-and-returns.php:1780
+msgid "Enter warranty period."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:370
+#: woocommerce-warranties-and-returns.php:410
+#: woocommerce-warranties-and-returns.php:636
+#: woocommerce-warranties-and-returns.php:694
+#: woocommerce-warranties-and-returns.php:853
+#: woocommerce-warranties-and-returns.php:934
+#: woocommerce-warranties-and-returns.php:1054
+#: woocommerce-warranties-and-returns.php:1112
+#: woocommerce-warranties-and-returns.php:1362
+#: woocommerce-warranties-and-returns.php:1479
+#: woocommerce-warranties-and-returns.php:1537
+#: woocommerce-warranties-and-returns.php:1605
+#: woocommerce-warranties-and-returns.php:1725
+#: woocommerce-warranties-and-returns.php:1783
+msgid "Warranty description (optional)"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:372
+#: woocommerce-warranties-and-returns.php:412
+#: woocommerce-warranties-and-returns.php:638
+#: woocommerce-warranties-and-returns.php:696
+#: woocommerce-warranties-and-returns.php:855
+#: woocommerce-warranties-and-returns.php:936
+#: woocommerce-warranties-and-returns.php:1056
+#: woocommerce-warranties-and-returns.php:1114
+#: woocommerce-warranties-and-returns.php:1481
+#: woocommerce-warranties-and-returns.php:1539
+#: woocommerce-warranties-and-returns.php:1607
+#: woocommerce-warranties-and-returns.php:1727
+#: woocommerce-warranties-and-returns.php:1785
+msgid "Enter warranty description."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:376
+#: woocommerce-warranties-and-returns.php:416
+#: woocommerce-warranties-and-returns.php:642
+#: woocommerce-warranties-and-returns.php:700
+#: woocommerce-warranties-and-returns.php:871
+#: woocommerce-warranties-and-returns.php:940
+#: woocommerce-warranties-and-returns.php:1060
+#: woocommerce-warranties-and-returns.php:1118
+#: woocommerce-warranties-and-returns.php:1368
+#: woocommerce-warranties-and-returns.php:1485
+#: woocommerce-warranties-and-returns.php:1543
+#: woocommerce-warranties-and-returns.php:1611
+#: woocommerce-warranties-and-returns.php:1731
+#: woocommerce-warranties-and-returns.php:1789
+msgid "Warranty thumbnail (optional)"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:378
+#: woocommerce-warranties-and-returns.php:418
+#: woocommerce-warranties-and-returns.php:644
+#: woocommerce-warranties-and-returns.php:702
+#: woocommerce-warranties-and-returns.php:865
+#: woocommerce-warranties-and-returns.php:942
+#: woocommerce-warranties-and-returns.php:1062
+#: woocommerce-warranties-and-returns.php:1120
+#: woocommerce-warranties-and-returns.php:1370
+#: woocommerce-warranties-and-returns.php:1487
+#: woocommerce-warranties-and-returns.php:1545
+#: woocommerce-warranties-and-returns.php:1613
+#: woocommerce-warranties-and-returns.php:1733
+#: woocommerce-warranties-and-returns.php:1791
+msgid "Add warranty thumbnail"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:564
+#: woocommerce-warranties-and-returns.php:745
+#: woocommerce-warranties-and-returns.php:982
+#: woocommerce-warranties-and-returns.php:1444
+#: woocommerce-warranties-and-returns.php:1690
+msgid "Select warranty type"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:566
+#: woocommerce-warranties-and-returns.php:751
+#: woocommerce-warranties-and-returns.php:984
+#: woocommerce-warranties-and-returns.php:2023
+#: woocommerce-warranties-and-returns.php:2382
+#: woocommerce-warranties-and-returns.php:2390
+msgid "No warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:567
+#: woocommerce-warranties-and-returns.php:752
+#: woocommerce-warranties-and-returns.php:985
+msgid "Preset warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:568
+#: woocommerce-warranties-and-returns.php:753
+#: woocommerce-warranties-and-returns.php:986
+msgid "Quick warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:570
+#: woocommerce-warranties-and-returns.php:746
+#: woocommerce-warranties-and-returns.php:988
+msgid "Select preset warranty or add quick product warranty."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:579
+#: woocommerce-warranties-and-returns.php:776
+#: woocommerce-warranties-and-returns.php:997
+msgid "Select warranty preset"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:592
+#: woocommerce-warranties-and-returns.php:777
+#: woocommerce-warranties-and-returns.php:1010
+msgid ""
+"Select warranty preset to use with the current product. Warranty presets can "
+"be set in Products &gt; Warranty Presets."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:601
+#: woocommerce-warranties-and-returns.php:796
+#: woocommerce-warranties-and-returns.php:1019
+msgid "Select quick warranty type"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:604
+#: woocommerce-warranties-and-returns.php:804
+#: woocommerce-warranties-and-returns.php:1022
+#: woocommerce-warranties-and-returns.php:1447
+#: woocommerce-warranties-and-returns.php:1693
+msgid "Included warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:605
+#: woocommerce-warranties-and-returns.php:805
+#: woocommerce-warranties-and-returns.php:1023
+#: woocommerce-warranties-and-returns.php:1448
+#: woocommerce-warranties-and-returns.php:1694
+msgid "Paid warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:607
+#: woocommerce-warranties-and-returns.php:797
+#: woocommerce-warranties-and-returns.php:1025
+#: woocommerce-warranties-and-returns.php:1450
+#: woocommerce-warranties-and-returns.php:1696
+msgid ""
+"Warranties can be included or paid as an add-on. Choose your warranty type."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:641
+#: woocommerce-warranties-and-returns.php:699
+#: woocommerce-warranties-and-returns.php:864
+#: woocommerce-warranties-and-returns.php:939
+#: woocommerce-warranties-and-returns.php:1059
+#: woocommerce-warranties-and-returns.php:1117
+#: woocommerce-warranties-and-returns.php:1484
+#: woocommerce-warranties-and-returns.php:1542
+#: woocommerce-warranties-and-returns.php:1730
+#: woocommerce-warranties-and-returns.php:1788
+msgid "Thumbnail preview"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:653
+#: woocommerce-warranties-and-returns.php:891
+#: woocommerce-warranties-and-returns.php:1071
+#: woocommerce-warranties-and-returns.php:1496
+#: woocommerce-warranties-and-returns.php:1742
+msgid "Add No Warranty option"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:655
+#: woocommerce-warranties-and-returns.php:892
+#: woocommerce-warranties-and-returns.php:1073
+#: woocommerce-warranties-and-returns.php:1498
+#: woocommerce-warranties-and-returns.php:1744
+msgid "To enable product purchases without a paid warranty check this option."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:712
+#: woocommerce-warranties-and-returns.php:952
+#: woocommerce-warranties-and-returns.php:1130
+#: woocommerce-warranties-and-returns.php:1555
+#: woocommerce-warranties-and-returns.php:1801
+msgid "Add paid warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:864
+msgid "No image"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:873
+msgid "Add a warranty thumbnail."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:980
+msgid "Item Warranties"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1364
+msgid "Enter warranty descriptio."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1879
+msgid "Delete?"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1880
+msgid "Not selected."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1881
+msgid "Deleted!"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1882
+msgid "Error!"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1883
+msgid "Load?"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1884
+msgid "Loaded!"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1885
+msgid "Template name?"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1886
+msgid "Missing email or name."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1887
+msgid "Send Email?"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1888
+msgid "Saved!"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1889
+msgid "Email sent!"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:1987
+#: woocommerce-warranties-and-returns.php:2425
+#: woocommerce-warranties-and-returns.php:5257
+#: woocommerce-warranties-and-returns.php:5288
+msgid "Included Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2004
+#: woocommerce-warranties-and-returns.php:2052
+msgid "Lifetime Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2019
+msgid "Select Warranty Options"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2033
+msgid "Purchase this product without any warranty options."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2222
+#: woocommerce-warranties-and-returns.php:5182
+msgid "Available Warranties for this Order"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2227
+#: woocommerce-warranties-and-returns.php:4129
+#: woocommerce-warranties-and-returns.php:4394
+#: woocommerce-warranties-and-returns.php:4681
+#: woocommerce-warranties-and-returns.php:5187
+msgid "Your warranties will be available once your order is complete."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2231
+msgid "Pending order"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2244
+msgid "Product"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2247
+msgid "Action"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2321
+msgid "This item has been returned to the store."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2325
+#: woocommerce-warranties-and-returns.php:2354
+msgid "Pending review"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2329
+msgid "Return rejected"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2333
+msgid "Return requested"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2345
+msgid "Warranty rejected"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2349
+msgid "Requested"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2374
+#: woocommerce-warranties-and-returns.php:2389
+#: woocommerce-warranties-and-returns.php:2482
+#: woocommerce-warranties-and-returns.php:2487
+#: woocommerce-warranties-and-returns.php:2491
+msgid "This item was sold without warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2377
+msgid ", however you can still return it to the store"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2378
+msgid "Return available"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2379
+msgid "Request Return"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2394
+msgid "Warranty for this item has expired"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2395
+msgid "Expired"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2437
+#: woocommerce-warranties-and-returns.php:2441
+#: woocommerce-warranties-and-returns.php:2474
+#: woocommerce-warranties-and-returns.php:2477
+msgid "Valid"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2463
+msgid "Paid Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2611
+msgid "Warranty Type"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2632
+#: woocommerce-warranties-and-returns.php:2633
+msgid "No Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2636
+msgid "Warranty Expired"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2693
+#: woocommerce-warranties-and-returns.php:2827
+#: woocommerce-warranties-and-returns.php:3080
+#: woocommerce-warranties-and-returns.php:3113
+#: woocommerce-warranties-and-returns.php:3884
+msgid "Change Request Status"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2734
+msgid "Request for Order"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2734
+#: woocommerce-warranties-and-returns.php:3162
+msgid "Item"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2739
+msgid "included warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2741
+#: woocommerce-warranties-and-returns.php:2742
+#: woocommerce-warranties-and-returns.php:2754
+#: woocommerce-warranties-and-returns.php:2755
+#: woocommerce-warranties-and-returns.php:2764
+msgid "Create Warranty Request for this Item"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2741
+#: woocommerce-warranties-and-returns.php:2754
+msgid "In Warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2750
+msgid "paid warranty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2769
+#: woocommerce-warranties-and-returns.php:2770
+msgid "Please refresh"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2788
+#: woocommerce-warranties-and-returns.php:3054
+msgid "Request Status"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2826
+msgid "View Request Status"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:2877
+msgid "Day"
+msgid_plural "Days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce-warranties-and-returns.php:2880
+msgid "Week"
+msgid_plural "Weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce-warranties-and-returns.php:2883
+msgid "Month"
+msgid_plural "Months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce-warranties-and-returns.php:2886
+msgid "Year"
+msgid_plural "Years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce-warranties-and-returns.php:3004
+msgid "Warranties and Returns - Request Details"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3022
+msgid "Multiple Item Order"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3026
+msgid "Single Item Order"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3051
+msgid "Order "
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3051
+msgid "Manage Order"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3051
+msgid "Manage Order "
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3054
+msgid "Parent"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3078
+msgid "View Parent Request Status"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3086
+msgid "Send a quick E-Mail the Customer"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3088
+msgid "Use these variables in Emails"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3089
+msgid "Email Template"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3106
+msgid "Load"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3107
+msgid "Save"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3108
+msgid "Delete Selected"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3109
+msgid "Send Email"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3136
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3142
+msgid "Item ID"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3151
+msgid "Parent ID"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3166
+msgid "Qty"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3168
+msgid "Total"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3219
+msgid "Product ID:"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3222
+#: woocommerce-warranties-and-returns.php:3224
+msgid "Variation ID:"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3224
+msgid "No longer exists"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3228
+msgid "Product SKU:"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3342
+msgid "Add&nbsp;meta"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3389
+msgid "After pre-tax discounts."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3392
+msgid "Before pre-tax discounts."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3422
+msgid "Please enter Order ID"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3631
+msgid "Warranty Request for order #"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3677
+#: woocommerce-warranties-and-returns.php:3703
+#: woocommerce-warranties-and-returns.php:3735
+#: woocommerce-warranties-and-returns.php:4312
+#: woocommerce-warranties-and-returns.php:4356
+#: woocommerce-warranties-and-returns.php:4577
+msgid "Request for Order #"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3678
+#: woocommerce-warranties-and-returns.php:4313
+msgid "This is a parent warranty request. Check child requests for details."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3703
+#: woocommerce-warranties-and-returns.php:3735
+#: woocommerce-warranties-and-returns.php:4356
+#: woocommerce-warranties-and-returns.php:4577
+msgid "Item #"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3837
+msgid "Warranty Status (Multi Item Order):"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3852
+msgid "Warranty Status (Single Item Order):"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3887
+msgid "This order has no warranty requests"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3945
+#: woocommerce-warranties-and-returns.php:4246
+#: woocommerce-warranties-and-returns.php:4267
+#: woocommerce-warranties-and-returns.php:4514
+#: woocommerce-warranties-and-returns.php:4536
+#: woocommerce-warranties-and-returns.php:5240
+msgid "Warranty already requested. View request status on this"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3945
+#: woocommerce-warranties-and-returns.php:4233
+#: woocommerce-warranties-and-returns.php:4246
+#: woocommerce-warranties-and-returns.php:4267
+#: woocommerce-warranties-and-returns.php:4499
+#: woocommerce-warranties-and-returns.php:4514
+#: woocommerce-warranties-and-returns.php:4536
+#: woocommerce-warranties-and-returns.php:4661
+#: woocommerce-warranties-and-returns.php:5240
+#: woocommerce-warranties-and-returns.php:5278
+#: woocommerce-warranties-and-returns.php:5309
+msgid "link"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:3967
+msgid ""
+"Item was ordered multiple times, the requested number of item warranties is: "
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4017
+msgid "Checked"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4099
+msgid ""
+"Item was ordered multiple times, the requested number of item returns is: "
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4102
+msgid ""
+"Nothing is wrong with the item. Customer just does not like it. Return was "
+"requested for this item."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4105
+msgid "Return message from the buyer:"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4189
+#: woocommerce-warranties-and-returns.php:4455
+msgid "There is no warranty or return policy for this item."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4201
+#: woocommerce-warranties-and-returns.php:4467
+#: woocommerce-warranties-and-returns.php:4791
+#: woocommerce-warranties-and-returns.php:4820
+#: woocommerce-warranties-and-returns.php:4840
+#: woocommerce-warranties-and-returns.php:5208
+msgid "There is no warranty for this item."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4213
+#: woocommerce-warranties-and-returns.php:4479
+#: woocommerce-warranties-and-returns.php:4850
+#: woocommerce-warranties-and-returns.php:5216
+msgid "Warranty for this item has expired."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4227
+#: woocommerce-warranties-and-returns.php:4493
+msgid "This item has already been returned to the store."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4230
+#: woocommerce-warranties-and-returns.php:4496
+msgid ""
+"Return already requested but is still pending review. Please be patient."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4233
+#: woocommerce-warranties-and-returns.php:4499
+msgid "Return already requested. View request status on this"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4347
+#: woocommerce-warranties-and-returns.php:4552
+msgid "warranty has expired."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4567
+msgid "return period has expired."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4610
+msgid "Return request accepted. Go back to your order"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4610
+#: woocommerce-warranties-and-returns.php:4619
+msgid "here"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4619
+msgid "Warranty request accepted. Go back to your order"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4661
+msgid "Product is not selected. Please visit your account page at this"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4752
+msgid "Select item"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4781
+#: woocommerce-warranties-and-returns.php:4800
+msgid "There is no valid warranty for any of the ordered items."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4791
+#: woocommerce-warranties-and-returns.php:4828
+msgid ""
+"However you can still return it to the store as its return warranty is still "
+"valid."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4871
+msgid "Select Quantity"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4874
+msgid ""
+"Total number of items ordered is %1$s. Please select how many items will be "
+"included in your warranty request."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4880
+msgid "Order #<strong>%s</strong>"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4885
+msgid ""
+"Order #%s was placed on %s and is currently %s. To request a warranty for "
+"<em>%s</em> please fill in the form bellow."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4898
+msgid "Please fill in the required fields."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4912
+msgid "Return is still available"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4914
+msgid "Return item"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4916
+msgid ""
+"Item returns are available in this shop. If you just want to return an item "
+"to the store please check this option."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4919
+msgid "Why are you returning this item?"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:4923
+msgid "Enter additional information for this return request."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5027
+msgid "Address"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5030
+msgid "City"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5033
+msgid "Zipcode"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5036
+msgid "State / Province / Region"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5039
+msgid "Country"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5082
+msgid "Submit Request"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5093
+msgid "You cannot make this request."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5105
+msgid ""
+"Warranty requests for users that are not logged in are allowed. Please fill "
+"in the form bellow to request a warranty for you order."
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5128
+msgid "Guest warranty requests are not allowed!"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5278
+#: woocommerce-warranties-and-returns.php:5309
+msgid "warranty is still valid. Request your warranty at this"
+msgstr ""
+
+#: woocommerce-warranties-and-returns.php:5342
+msgid "Your purchase has included paid warranties!"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.mihajlovicnenad.com/woocommerce-warranties-and-returns"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Warranties and Returns plugin for WooCommerce! - mihajlovicnenad.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mihajlovic Nenad"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.mihajlovicnenad.com"
+msgstr ""
