@@ -1,3 +1,6 @@
+Dockerfile
+ore-wordpress-php7.2.tar
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
