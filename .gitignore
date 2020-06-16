@@ -1,5 +1,13 @@
 Dockerfile
 ore-wordpress-php7.2.tar
+flatsome.zip
+
+
+
+
+
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
